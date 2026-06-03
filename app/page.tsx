@@ -20,7 +20,7 @@ export default function WidgetDemoPage() {
           type="button"
           className="mt-4 rounded-md bg-primary px-3 py-1.5 text-sm text-primary-foreground"
         >
-          Get started
+          Let's go
         </button>
       </section>
 
