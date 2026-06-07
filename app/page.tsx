@@ -13,7 +13,7 @@ export default function WidgetDemoPage() {
         </p>
       </header>
 
-      <section className="mb-8 rounded-lg border bg-[#CCCCCC] p-6">
+      <section className="mb-8 rounded-lg border bg-[#CCCCCC] p-4 sm:p-6">
         <h2 className="mb-2 text-lg">Pricing</h2>
         <p className="text-sm text-muted-foreground">Three tiers, no surprises. Cancel anytime.</p>
         <button
@@ -24,7 +24,7 @@ export default function WidgetDemoPage() {
         </button>
       </section>
 
-      <section className="rounded-lg border bg-[#CCCCCC] p-6">
+      <section className="rounded-lg border bg-[#CCCCCC] p-4 sm:p-6">
         <h2 className="mb-2 text-lg">FAQ</h2>
         <p className="text-sm">
           Question?{" "}
