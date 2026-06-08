@@ -18,7 +18,7 @@ export default function WidgetDemoPage() {
         <p className="text-sm text-muted-foreground">Three tiers, no surprises. Cancel anytime.</p>
         <button
           type="button"
-          className="mt-4 rounded-md border border-white bg-transparent px-3 py-1.5 text-sm text-white"
+          className="mt-4 rounded-md bg-primary px-3 py-1.5 text-sm text-primary-foreground"
         >
           Let's go
         </button>
