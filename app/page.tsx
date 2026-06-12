@@ -6,7 +6,7 @@ export default function WidgetDemoPage() {
   return (
     <main className="mx-auto max-w-3xl px-6 py-12">
       <header className="mb-8">
-        <h1 className="text-2xl">Patch widget demo</h1>
+        <h1 className="text-2xl">Patch demo</h1>
         <p className="mt-2 text-sm text-muted-foreground">
           Click the FAB at the bottom-right to drop a pin on any element. Open this page with{" "}
           <code className="rounded bg-muted px-1 py-0.5">?token=...</code>.
